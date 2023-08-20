@@ -8,8 +8,10 @@
   - [_The Brain in Search of Itself: Santiago Ramón y Cajal and the Story of the Neuron_](https://us.macmillan.com/books/9780374110376/thebraininsearchofitself) by Benjamin Ehrlich.
 - :books: Recently read: [_Transformer: The Deep Chemistry of Life and Death_](https://nick-lane.net/books/transformer-the-deep-chemistry-of-life-and-death/) by Nick Lane.
 - :seedling: Currently learning: bioinformatics basics, Japanese, Chinese, & DIY indoor gardening. 
-  
+
+<!-- update_date starts -->
 **Last updated**: 2023-08-19
+<!-- update_date ends -->
 
 <div align="center">
   <a rel="me" href="https://mathstodon.xyz/@flloaers">Mastodon</a> •
