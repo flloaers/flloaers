@@ -1,7 +1,7 @@
 ### Hi there, I’m Florence 👋
 
 - 🔭 Aspiring cultivator of poetic physics.
-- :book: Currently reading:
+- :book: Currently reading: 
   - [_The Saint of Bright Doors_](https://vajra.me/books/the-saint-of-bright-doors/) by Vajra Chandrasekera,
   - [_Dialogues_](https://mitpress.mit.edu/9780262542937/dialogues/) by Stanisław Lem, translated by Peter Butko,
   - [_The Truth and Other Stories_](https://mitpress.mit.edu/9780262545068/the-truth-and-other-stories/) by Stanisław Lem, translated by Antonia Lloyd-Jones,
