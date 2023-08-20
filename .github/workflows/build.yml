@@ -20,6 +20,8 @@ jobs:
     steps:
     - name: Check out repo
       uses: actions/checkout@v2
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     - name: Set up Python
       uses: actions/setup-python@v2
       with:
