@@ -41,7 +41,6 @@ jobs:
         git diff
         git config --global user.email "github-action-bot@example.com"
         git config --global user.name "GitHub Action Bot"
-        git push origin HEAD:update-test
         git add -A
         git commit -m "Updated content" || exit 0
         git push
