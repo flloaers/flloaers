@@ -3,6 +3,8 @@ import pathlib
 import re
 import datetime
 
+root = pathlib.Path(__file__).parent.resolve()
+
 def replace_writing(content, marker, chunk, inline=False):
     r = re.compile(
         r'<!\-\- {} starts \-\->.*<!\-\- {} ends \-\->'.format(marker, marker),
