@@ -18,11 +18,6 @@ def replace_writing(content, marker, chunk, inline=False):
 if __name__ == '__main__':
     readme_path = root / 'README.md'
     readme = readme_path.open().read()
-    entries, entry_count = fetch_writing()
-    print(f'Recent 5: {entries}, Total count: {entry_count}')
-    entries_md = '\n'.join(
-        ['* [{title}]({url}) - {published}'.format(**entry) for entry in entries]
-    )
 
     # get current date
     current_date = datetime.date.today()
