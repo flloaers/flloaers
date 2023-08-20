@@ -1,6 +1,7 @@
 import pathlib
 import re
 import datetime
+import pytz
 
 root = pathlib.Path(__file__).parent.resolve()
 
@@ -19,7 +20,7 @@ if __name__ == '__main__':
     readme = readme_path.open().read()
 
     # get current date
-    current_date = datetime.datetime.now()
+    current_date = datetime.now(pytz.timezone('Europe/Brussels'))
 
     # Update entries
     updated_date = replace_writing(readme, 'update_date', current_date)
