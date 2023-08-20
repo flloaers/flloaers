@@ -19,7 +19,7 @@ if __name__ == '__main__':
     readme = readme_path.open().read()
 
     # get current date
-    current_date = datetime.date.now()
+    current_date = datetime.datetime.now()
 
     # Update entries
     updated_date = replace_writing(readme, 'update_date', current_date)
