@@ -11,7 +11,9 @@
 
    
 
-Last updated on <!-- update_date starts --> 2023-08-20 <!-- update_date ends -->.
+Last updated on <!-- update_date starts -->
+2023-08-20
+<!-- update_date ends -->.
 
 <div align="center">
   <a rel="me" href="https://mathstodon.xyz/@flloaers">Mastodon</a> •
