@@ -10,7 +10,7 @@ def replace_writing(content, marker, chunk, inline=False):
         re.DOTALL,
     )
     if not inline:
-        chunk = '\n{}\n'.format(chunk)
+        chunk = '{}'.format(chunk)
     chunk = '<!-- {} starts -->{}<!-- {} ends -->'.format(marker, chunk, marker)
     return r.sub(chunk, content)
 
