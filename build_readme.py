@@ -20,7 +20,7 @@ if __name__ == '__main__':
     readme = readme_path.open().read()
 
     # get current date
-    current_date = datetime.now(pytz.timezone('Asia/Kolkata'))
+    current_date = datetime.datetime.now(pytz.timezone('Asia/Kolkata'))
 
     # Update entries
     updated_date = replace_writing(readme, 'update_date', current_date)
