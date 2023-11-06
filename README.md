@@ -2,11 +2,13 @@
 
 - 🔭 Aspiring cultivator of poetic physics.
 - :book: Currently reading: 
-  - [_The Saint of Bright Doors_](https://vajra.me/books/the-saint-of-bright-doors/) by Vajra Chandrasekera,
   - [_Dialogues_](https://mitpress.mit.edu/9780262542937/dialogues/) by Stanisław Lem, translated by Peter Butko,
   - [_The Truth and Other Stories_](https://mitpress.mit.edu/9780262545068/the-truth-and-other-stories/) by Stanisław Lem, translated by Antonia Lloyd-Jones,
   - [_The Brain in Search of Itself: Santiago Ramón y Cajal and the Story of the Neuron_](https://us.macmillan.com/books/9780374110376/thebraininsearchofitself) by Benjamin Ehrlich.
-- :books: Recently read: [_Transformer: The Deep Chemistry of Life and Death_](https://nick-lane.net/books/transformer-the-deep-chemistry-of-life-and-death/) by Nick Lane.
+- :books: Recently read:
+  - [_Counterweight_](https://www.penguinrandomhouse.com/books/712557/counterweight-by-djuna/) by Djuna, translated by Anton Hur, 
+  - [_The Saint of Bright Doors_](https://vajra.me/books/the-saint-of-bright-doors/) by Vajra Chandrasekera,
+  - [_Transformer: The Deep Chemistry of Life and Death_](https://nick-lane.net/books/transformer-the-deep-chemistry-of-life-and-death/) by Nick Lane.
 - :seedling: Currently learning: bioinformatics basics, Japanese, Chinese, & DIY indoor gardening. 
 
 Last updated: <!-- update_date starts -->2023-08-20 11:48:30<!-- update_date ends --> (UCT+01:00).
