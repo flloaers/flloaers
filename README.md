@@ -16,7 +16,7 @@ Last updated: <!-- update_date starts -->2023-11-06 16:29:11<!-- update_date end
 <div align="center">
   <a rel="me" href="https://mathstodon.xyz/@flloaers">Mastodon</a> •
   <a href='https://twitter.com/flloaers'>Twitter</a> •
-  <a href='https://www.linkedin.com/in/florence-lenaers-95988682/'>LinkedIn</a> •
+  <a href='https://www.linkedin.com/in/florence-lenaers/'>LinkedIn</a> •
   <a href='https://flloaers.wordpress.com/'>Wordpress</a>
 </div>
 
